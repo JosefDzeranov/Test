@@ -1,3 +1,3 @@
 # Test
 Test tasks solutions
-<span color="#AAAAAA">Задача 1.</span>
+<span style="font-weight: bold;">Задача 1</span>
